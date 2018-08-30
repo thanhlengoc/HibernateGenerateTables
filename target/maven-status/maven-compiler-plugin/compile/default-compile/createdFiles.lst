@@ -1,0 +1,6 @@
+org/thanhle/HibernateGenerateTables/entities/Department.class
+org/thanhle/HibernateGenerateTables/App.class
+org/thanhle/HibernateGenerateTables/entities/Timekeeper.class
+org/thanhle/HibernateGenerateTables/entities/Employee.class
+org/thanhle/HibernateGenerateTables/SchemaGeneratorDemo.class
+org/thanhle/HibernateGenerateTables/entities/SalaryGrade.class
